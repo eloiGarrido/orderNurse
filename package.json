@@ -1,0 +1,20 @@
+{
+  "name": "ordernurse",
+  "version": "0.1.0",
+  "description": "commander test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Eloi Garrido",
+  "license": "MIT"
+}
